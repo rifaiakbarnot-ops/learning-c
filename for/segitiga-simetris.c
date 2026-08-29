@@ -31,7 +31,7 @@ int main(void)
         }
         else
         {
-            for (int k = 1; k <= angka * 2 - i; k++) // i = 6, angka = 5, k harus = 4
+            for (int k = 1; k <= angka * 2 - i; k++) // Bintang berkurang contoh >> i = 6, angka = 5, k harus = 4
             {
                 printf("*");
             }
